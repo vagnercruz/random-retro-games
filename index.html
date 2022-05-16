@@ -1,24 +1,22 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random game - NES</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="" id="theme-link">
+    <link rel="stylesheet" href="assets/style/style.css">
+    <title>Escolha de console</title>
 </head>
 <body>
-    <main class="main-container">
-        <h1>Um jogo aleatorio de NES pra você que não sabe o que escolher</h1>
-        <button id="btn-random" onclick="renderize()">jogar</button>
-        <p class='result'>
-            Resultado Aqui
-        </p>
-    </main>
-    <button type="button" class="btn-theme-toggle"><span>🌙</span></button>
-    <script src="./randomGame.js"></script>
-    <script src="./darkMode.js"></script>
+
+    <h1>Um sorteador de jogos para pessoas que não sabem qual jogo escolher!</h1>
+    <div class="box">
+        <select onchange="myChangeHandler.apply(this)">
+            <option selected>Escolha um console</option>
+            <option value="nes.html">Nes</option>
+            <option value="snes">Snes</option>
+        </select>
+    </div>
+    <script src="assets/js/script.js"></script>
 </body>
 </html>
