@@ -887,634 +887,827 @@
         "Game": " Dragon Quest III",
         "Dev": "Enix"
     },
+    {
+        "Game": " Dragon Quest IV",
+        "Dev": "Enix"
+    },
+    {
+        "Game": " Dragon Scroll",
+        "Dev": "Konami"
+    },
+    {
+        "Game": "Legacy of the Wizard",
+        "Dev": "Namco"
+    },
+    {
+        "Game": "Dragon Spirit: The New Legend",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Dragon Unit",
+        "Dev": "Athena"
+    },
+    {
+        "Game": " Dragon Wars",
+        "Dev": "Kemco"
+    },
+    {
+        "Game": " Dragon's Lair",
+        "Dev": "Epic Sony Record"
+    },
+    {
+        "Game": " Dream Master",
+        "Dev": "Namco"
+    },
+    {
+        "Game": "The Tower of Druaga",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Duck Hunt",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " DuckTales ",
+        "Dev": "Capcom"
+    },
+    {
+        "Game": " DuckTales 2",
+        "Dev": "Capcom"
+    },
+    {
+        "Game": " Dungeon & Magic: Sword of the Elements",
+        "Dev": "Natsume"
+    },
+    {
+        "Game": " Dungeon Kid",
+        "Dev": "Quest"
+    },
+    {
+        "Game": "Batman: Return of the Joker",
+        "Dev": "SunSoft"
+    },
+    {
+        "Game": " Dynamite Bowl",
+        "Dev": "Toshiba EMI"
+    },
+    {
+        "Game": " Eggland: Meikyuu no Fukkatsu",
+        "Dev": "HAL"
+    },
+    {
+        "Game": " Egypt",
+        "Dev": "Human Entertainment"
+    },
+    {
+        "Game": " Elevator Action",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Elnark no Zaihou",
+        "Dev": "Towachiki"
+    },
+    {
+        "Game": " Elysian",
+        "Dev": "Tokyo Shoseki"
+    },
+    {
+        "Game": " Emoyan no 10-bai Pro Yakyuu",
+        "Dev": "Hect"
+    },
+    {
+        "Game": " Erika to Satoru no Yume Bouken",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Esper Boukentai",
+        "Dev": "Jaleco"
+    },
+    {
+        "Game": " Esper Dream 2",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Excitebike",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Exciting Boxing",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Exciting Rally",
+        "Dev": "HAL"
+    },
+    {
+        "Game": " Exed Exes",
+        "Dev": "Tokuma Shoten"
+    },
+    {
+        "Game": " Exerion",
+        "Dev": "Jaleco"
+    },
+    {
+        "Game": " F-1 Circus",
+        "Dev": "Nichibutsu"
+    },
+    {
+        "Game": " F-1 Sensation",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " F-1 Race",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Famicom Igo Nyuumon",
+        "Dev": "I'Max"
+    },
+    {
+        "Game": " Famicom Jump: Hero Retsuden"
+    },
+    {
+        "Game": " Famicom Jump II: The Strongest Seven"
+    },
+    {
+        "Game": " Famicom Meijinsen",
+        "Dev": "SNK"
+    },
+    {
+        "Game": " Famicom Shogi: Ryuu-Ou-Sen",
+        "Dev": "I'Max"
+    },
+    {
+        "Game": "Advance Wars",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Famicom Yakyuuban",
+        "Dev": "Epoch"
+    },
+    {
+        "Game": " Family Block",
+        "Dev": "Athena"
+    },
+    {
+        "Game": " Family Boxing",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Family Circuit",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Family Circuit '91",
+        "Dev": "Namco"
+    },
+    {
+        "Game": "Othello",
+        "Dev": "Kawada"
+    },
+    {
+        "Game": " Family Jockey",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Family Kid"
+    },
+    {
+        "Game": " Family Mahjong",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Family Mahjong II: Shanghai he no Michi",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Family Pinball",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Family Quiz ",
+        "Dev": "Athena"
+    },
+    {
+        "Game": " Family Tennis",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Family Trainer: Aerobics Studio",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Family Trainer: Athletic World",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Family Trainer: Daiondoukai",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Family Trainer: Fuuun! Takeshi Shiro 2",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Family Trainer: Jogging Race",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Family Trainer: Manhattan Police",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Family Trainer: Meiro Daisakusen",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Family Trainer: Rai Rai! Kyonshizu",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Family Trainer: Running Stadium",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Family Trainer: Tostugeki! Fuuun Takeshi Shiro",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Famista '89",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Famista '90",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Famista '91",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Famista '92",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Famista '93",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Famista '94",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Fantasy Zone",
+        "Dev": "SunSoft"
+    },
+    {
+        "Game": " Fantasy Zone 2: The Teardrop of Opa-Opa",
+        "Dev": "SunSoft"
+    },
+    {
+        "Game": " Faria: A World of Mystery and Danger",
+        "Dev": "Hi-Score Media Work"
+    },
+    {
+        "Game": " Faxanadu",
+        "Dev": "Hudson Soft"
+    },
+    {
+        "Game": "Bonk's Adventure",
+        "Dev": "Hudson Soft"
+    },
+    {
+        "Game": " Ferrari",
+        "Dev": "Coconuts Japan"
+    },
+    {
+        "Game": " Field Combat",
+        "Dev": "Jaleco"
+    },
+    {
+        "Game": " Fighting Golf",
+        "Dev": "SNK"
+    },
+    {
+        "Game": " Fighting Road",
+        "Dev": "Toei Animation"
+    },
+    {
+        "Game": " Final Fantasy",
+        "Dev": "Squaresoft"
+    },
+    {
+        "Game": " Final Fantasy I+II",
+        "Dev": "Squaresoft"
+    },
+    {
+        "Game": " Final Fantasy II",
+        "Dev": "Squaresoft"
+    },
+    {
+        "Game": " Final Fantasy II",
+        "Dev": "Squaresoft"
+    },
+    {
+        "Game": " Final Fantasy III",
+        "Dev": "Squaresoft"
+    },
+    {
+        "Game": " Final Lap",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Final Mission",
+        "Dev": "Natsume"
+    },
+    {
+        "Game": " Fire Emblem",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Fire Emblem Gaiden",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Flappy",
+        "Dev": "DB Soft"
+    },
+    {
+        "Game": " Fleet Commander",
+        "Dev": "ASCII Entertainment"
+    },
+    {
+        "Game": " Flintstones: Rescue of Dino and Hoppy",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Flipull",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Flying Hero",
+        "Dev": "Epic Sony Record"
+    },
+    {
+        "Game": " Formation Z",
+        "Dev": "Jaleco"
+    },
+    {
+        "Game": " Front Line",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Fudo Myouoden",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Fushigi na Blobby",
+        "Dev": "Jaleco"
+    },
+    {
+        "Game": " Fushigi no Umi Nadia: The Secret of Blue Water",
+        "Dev": "Toho"
+    },
+    {
+        "Game": " Fuzzical Fighter",
+        "Dev": "Sigma Entertainment"
+    },
+    {
+        "Game": " Galaga",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Galaxian",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Gambler Jiko Chuushinha",
+        "Dev": "Asmik Ace"
+    },
+    {
+        "Game": " Gambler Jiko Chuushinha 2",
+        "Dev": "Asmik Ace"
+    },
+    {
+        "Game": " Game Party",
+        "Dev": "Coconuts Japan"
+    },
+    {
+        "Game": "The Legend of the Mystical Ninja",
+        "Dev": "Konami"
+    },
+    {
+        "Game": "The Legend of the Mystical Ninja 2",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Ganbare Goemon Gaiden: Kieta Ougon Kiseru",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Ganbare Goemon Gaiden 2",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Ganbare Pennant Race!",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Garfield no Isshukan",
+        "Dev": "Towachiki"
+    },
+    {
+        "Game": " Gaurdic Gaiden",
+        "Dev": "Irem"
+    },
+    {
+        "Game": " Gegege no Kitaro: Youkai Daimakyou",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Gegege no Kitaro 2",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Geimos",
+        "Dev": "ASCII Entertainment"
+    },
+    {
+        "Game": "Teenage Mutant Ninja Turtles",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Gekitotsu Shiku Battle",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": "World Wrestling",
+        "Dev": "Tecmo"
+    },
+    {
+        "Game": " Gekitou!! Stadium",
+        "Dev": "Tecmo"
+    },
+    {
+        "Game": " Genpei Toumaden",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Getsufuu Maden",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Ghostbusters",
+        "Dev": "Tokuma Shoten"
+    },
+    {
+        "Game": " Gimme a Break: Shijou Saidai no Quiz Ou Ketteisen",
+        "Dev": "Yonezawa PR21"
+    },
+    {
+        "Game": " Gimme a Break: Shijou Saikyou no Quiz Ou Ketteisen",
+        "Dev": "Yonezawa PR21"
+    },
+    {
+        "Game": " Gimmick",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Ginga Eiyuu Densetsu",
+        "Dev": "Kemco"
+    },
+    {
+        "Game": " Ginga no Sannin",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Goal!",
+        "Dev": "Jaleco"
+    },
+    {
+        "Game": " God Slayer",
+        "Dev": "SNK"
+    },
+    {
+        "Game": " Godzilla",
+        "Dev": "Toho"
+    },
+    {
+        "Game": " Golby no Pipeline Daisakusen",
+        "Dev": "Tokuma Shoten"
+    },
+    {
+        "Game": " Golf",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " The Golf '92",
+        "Dev": "G.O.1"
+    },
+    {
+        "Game": " Golf Clun: Birdie Rush",
+        "Dev": "Data East"
+    },
+    {
+        "Game": " Golf Grand Slam",
+        "Dev": "Hect"
+    },
+    {
+        "Game": " Golf-kko Open",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Golgo 13: Kamigami no Koukon",
+        "Dev": "Vic Tokai"
+    },
+    {
+        "Game": " Golgo 13 II",
+        "Dev": "Vic Tokai"
+    },
+    {
+        "Game": " Gomoku Narabe",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Goonies",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Goonies II: Flattery Saigo no Chousen",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Gorilla Man",
+        "Dev": "Yonezawa PR21"
+    },
+    {
+        "Game": " Gozonji Yajikitatin Douchuu",
+        "Dev": "HAL"
+    },
+    {
+        "Game": " Gradius",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Gradius II",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Grand Master",
+        "Dev": "Varie"
+    },
+    {
+        "Game": " Great Battle Cyber",
+        "Dev": "Banpresto"
+    },
+    {
+        "Game": " Great Boxing - Rush Up",
+        "Dev": "Visco"
+    },
+    {
+        "Game": " Great Deal",
+        "Dev": "Hect"
+    },
+    {
+        "Game": " Great Tank",
+        "Dev": "SNK"
+    },
+    {
+        "Game": " Gremlins 2: The New Batch",
+        "Dev": "SunSoft"
+    },
+    {
+        "Game": " Guevara",
+        "Dev": "SNK"
+    },
+    {
+        "Game": " Gun Head",
+        "Dev": "Varie"
+    },
+    {
+        "Game": " Gun Nac",
+        "Dev": "Tonkin House"
+    },
+    {
+        "Game": " Gun Sight",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Gun-DecSammy"
+    },
+    {
+        "Game": " Gyrodyne",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Hana no Star Kaidou",
+        "Dev": "Victor Interactive"
+    },
+    {
+        "Game": " Hanjuku Hero",
+        "Dev": "Squaresoft"
+    },
+    {
+        "Game": " Happy Birthday Bugs",
+        "Dev": "Kemco"
+    },
+    {
+        "Game": " HatrisBullet Proof"
+    },
+    {
+        "Game": " Hayauchi Super Igo",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Heavy Barrel",
+        "Dev": "Data East"
+    },
+    {
+        "Game": " Hebereke",
+        "Dev": "SunSoft"
+    },
+    {
+        "Game": " Heisei Tensai Bakabon",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Hello Kitty no Hanabatake",
+        "Dev": "Character Soft"
+    },
+    {
+        "Game": " Hello Kitty World",
+        "Dev": "Character Soft"
+    },
+    {
+        "Game": " Hercules no Eikou",
+        "Dev": "Data East"
+    },
+    {
+        "Game": " Hercules no Eikou II",
+        "Dev": "Data East"
+    },
+    {
+        "Game": " Hi no Tori: Wagaou no Bouken",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Higemaru Makaishima ",
+        "Dev": "Capcom"
+    },
+    {
+        "Game": " Highway Star",
+        "Dev": "Squaresoft"
+    },
+    {
+        "Game": " Hirake! Ponkikki",
+        "Dev": "Takara"
+    },
+    {
+        "Game": " Flying Dragon: The Secret Scroll",
+        "Dev": "Culture Brain"
+    },
+    {
+        "Game": " Hiryu no Ken II",
+        "Dev": "Culture Brain"
+    },
+    {
+        "Game": " Hiryu no Ken III - 5 Nin no Ryuu Senshi",
+        "Dev": "Culture Brain"
+    },
+    {
+        "Game": " Hiryu no Ken Special: Fighting Wars ",
+        "Dev": "Culture Brain"
+    },
+    {
+        "Game": " Hissatsu Doujou Yaburi",
+        "Dev": "Sigma Entertainment"
+    },
+    {
+        "Game": " Hissatsu Shigotojin",
+        "Dev": "Banpresto"
+    },
+    {
+        "Game": " Bionic Commando",
+        "Dev": "Capcom"
+    },
+    {
+        "Game": " Hogan's Alley",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Hokkaidou Rensa Satsujin: Ohotsuku ni Kiyu",
+        "Dev": "ASCII Entertainment"
+    },
+    {
+        "Game": " Hokuto no Ken",
+        "Dev": "Toei Animation"
+    },
+    {
+        "Game": " Hokuto no Ken II",
+        "Dev": "Toei Animation"
+    },
+    {
+        "Game": " Hokuto no Ken III",
+        "Dev": "Toei Animation"
+    },
+    {
+        "Game": " Hokuto no Ken 4",
+        "Dev": "Toei Animation"
+    },
+    {
+        "Game": " Holy Diver ",
+        "Dev": "Irem"
+    },
+    {
+        "Game": " Home Run Night",
+        "Dev": "Data East"
+    },
+    {
+        "Game": " Home Run Night '90",
+        "Dev": "Data East"
+    },
+    {
+        "Game": " Honmei",
+        "Dev": "Nihon Bussan"
+    },
+    {
+        "Game": " Honoo no Doukyuuji: Dodge Danpei",
+        "Dev": "SunSoft"
+    },
+    {
+        "Game": " Honoo no Doukyuuji: Dodge Danpei 2"
+    },
+    {
+        "Game": " Honshogi: Naitou Kudan Shogi Hiden",
+        "Dev": "Seta"
+    },
+    {
+        "Game": " Hook",
+        "Dev": "Epic Sony Record"
+    },
+    {
+        "Game": "Kirby's Adventure",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Hoshi no Miru Hito",
+        "Dev": "Hot-B"
+    },
+    {
+        "Game": " Hostage",
+        "Dev": "Kemco"
+    },
+    {
+        "Game": " Hot Dance 2000"
+    },
+    {
+        "Game": " Hototogisu",
+        "Dev": "Irem"
+    },
+    {
+        "Game": " Hottaman no Chisoko Tanken",
+        "Dev": "Use"
+    },
+    {
+        "Game": " Houma ga Koku",
+        "Dev": "Toho"
+    },
+    {
+        "Game": " Hudson Hawk",
+        "Dev": "Epic Sony Record"
+    },
+    {
+        "Game": " Hyaku no Sekai no Monogatari",
+        "Dev": "ASK"
+    },
+    {
+        "Game": " Hydlide Special",
+        "Dev": "Toshiba EMI"
+    },
+    {
+        "Game": " Hydlide 3",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Hyokkori Hyoutan Shima: Nazo no Kaizokusen",
+        "Dev": "Yutaka"
+    },
     {},
     {},
     {},
     {},
-    "Game": " Dragon Quest IV" 
-"Dev": "Enix"
-
-"Game": " Dragon Scroll" 
-"Dev": "Konami"
-
-"Game": "Legacy of the Wizard" 
-"Dev": "Namco"
-
-"Game": "Dragon Spirit: The New Legend" 
-"Dev": "Namco"
-
-"Game": " Dragon Unit" 
-"Dev": "Athena"
-
-"Game": " Dragon Wars" 
-"Dev": "Kemco"
-
-"Game": " Dragon's LairEpic Sony Record" 
-
-
-"Game": " Dream Master" 
-"Dev": "Namco"
-
-"Game": "The Tower of Druaga" 
-"Dev": "Namco"
-
-"Game": " Duck Hunt" 
-"Dev": "Nintendo"
-
-"Game": " DuckTales "
-"Dev": "Capcom" 
-
-
-"Game": " DuckTales 2"
-"Dev": "Capcom" 
-
-
-"Game": " Dungeon & Magic: Sword of the Elements" 
-"Dev": "Natsume"
-
-"Game": " Dungeon KidQuestJapão" 
-
-
-"Game": "Batman: Return of the Joker" 
-"Dev": "SunSoft"
-
-"Game": " Dynamite Bowl" 
-"Dev": "Toshiba EMI"
-
-
-
-
-"Game": " Eggland: Meikyuu no Fukkatsu"
-"Dev": "HAL" 
-
-"Game": " EgyptHuman EntertainmentJapão" 
-
-
-"Game": " Elevator Action" 
-"Dev": "Taito"
-
-"Game": " Elnark no Zaihou" 
-"Dev": "Towachiki"
-
-"Game": " Elysian" 
-"Dev": "Tokyo Shoseki"
-
-"Game": " Emoyan no 10-bai Pro YakyuuHectJapão" 
-
-
-"Game": " Erika to Satoru no Yume Bouken" 
-"Dev": "Namco"
-
-"Game": " Esper Boukentai" 
-"Dev": "Jaleco"
-
-"Game": " Esper Dream 2" 
-"Dev": "Konami"
-
-"Game": " Excitebike" 
-"Dev": "Nintendo"
-
-"Game": " Exciting Boxing" 
-"Dev": "Konami"
-
-"Game": " Exciting Rally" 
-"Dev": "HAL"
-
-"Game": " Exed Exes" 
-"Dev": "Tokuma Shoten"
-
-"Game": " Exerion" 
-"Dev": "Jaleco"
-
-"Game": " F-1 Circus" 
-"Dev": "Nichibutsu"
-
-"Game": " F-1 Sensation" 
-"Dev": "Konami"
-
-"Game": " F-1 Race" 
-"Dev": "Nintendo"
-
-"Game": " Famicom Igo NyuumonI'MaxJapão" 
-
-
-"Game": " Famicom Jump: Hero Retsuden" 
-
-
-"Game": " Famicom Jump II: The Strongest Seven" 
-
-
-"Game": " Famicom Meijinsen" 
-"Dev": "SNK"
-
-"Game": " Famicom Shogi: Ryuu-Ou-SenI'MaxJapão" 
-
-
-"Game": "Advance Wars" 
-"Dev": "Nintendo"
-
-"Game": " Famicom Yakyuuban" 
-"Dev": "Epoch"
-
-"Game": " Family Block" 
-"Dev": "Athena"
-
-"Game": " Family Boxing" 
-"Dev": "Namco"
-
-"Game": " Family Circuit" 
-"Dev": "Namco"
-
-"Game": " Family Circuit '91" 
-"Dev": "Namco"
-
-"Game": " Family Computer OthelloKawadaOthello" 
-
-
-"Game": " Family Jockey" 
-"Dev": "Namco"
-
-"Game": " Family KidSomari" 
-
-
-"Game": " Family Mahjong" 
-"Dev": "Namco"
-
-"Game": " Family Mahjong II: Shanghai he no Michi" 
-"Dev": "Namco"
-
-"Game": " Family Pinball" 
-"Dev": "Namco"
-
-"Game": " Family Quiz " 
-"Dev": "Athena"
-
-"Game": " Family Tennis" 
-"Dev": "Namco"
-
-"Game": " Family Trainer: Aerobics Studio" 
-"Dev": "Bandai"
-
-"Game": " Family Trainer: Athletic World" 
-"Dev": "Bandai"
-
-"Game": " Family Trainer: Daiondoukai" 
-"Dev": "Bandai"
-
-"Game": " Family Trainer: Fuuun! Takeshi Shiro 2" 
-"Dev": "Bandai"
-
-"Game": " Family Trainer: Jogging Race" 
-"Dev": "Bandai"
-
-"Game": " Family Trainer: Manhattan Police" 
-"Dev": "Bandai"
-
-"Game": " Family Trainer: Meiro Daisakusen" 
-"Dev": "Bandai"
-
-"Game": " Family Trainer: Rai Rai! Kyonshizu" 
-"Dev": "Bandai"
-
-"Game": " Family Trainer: Running Stadium" 
-"Dev": "Bandai"
-
-"Game": " Family Trainer: Tostugeki! Fuuun Takeshi Shiro" 
-"Dev": "Bandai"
-
-"Game": " Famista '89" 
-"Dev": "Namco"
-
-"Game": " Famista '90" 
-"Dev": "Namco"
-
-"Game": " Famista '91" 
-"Dev": "Namco"
-
-"Game": " Famista '92" 
-"Dev": "Namco"
-
-"Game": " Famista '93" 
-"Dev": "Namco"
-
-"Game": " Famista '94" 
-"Dev": "Namco"
-
-"Game": " Fantasy Zone" 
-"Dev": "SunSoft"
-
-"Game": " Fantasy Zone 2: The Teardrop of Opa-Opa" 
-"Dev": "SunSoft"
-
-"Game": " Faria: A World of Mystery and DangerHi-Score Media Work" 
-
-
-
-"Game": " Faxanadu" 
-"Dev": "Hudson Soft"
-
-"Game": "Bonk's Adventure" 
-"Dev": "Hudson Soft"
-
-
-"Game": " Ferrari" 
-"Dev": "Coconuts Japan"
-
-"Game": " Field Combat" 
-"Dev": "Jaleco"
-
-"Game": " Fighting Golf" 
-"Dev": "SNK"
-
-"Game": " Fighting Road" 
-"Dev": "Toei Animation"
-
-"Game": " Final Fantasy" 
-"Dev": "Squaresoft"
-
-"Game": " Final Fantasy I+II" 
-"Dev": "Squaresoft"
-
-"Game": " Final Fantasy II" 
-"Dev": "Squaresoft"
-
-"Game": " Final Fantasy III" 
-"Dev": "Squaresoft"
-
-"Game": " Final Fantasy VII: Advent Children[2]Shenzhen Nanjing TechnologyChina" 
-
-
-"Game": " Final Lap" 
-"Dev": "Namco"
-
-"Game": " Final Mission" 
-"Dev": "Natsume"
-
-"Game": " Fire Emblem" 
-"Dev": "Nintendo"
-
-"Game": " Fire Emblem Gaiden" 
-"Dev": "Nintendo"
-
-"Game": " FlappyDB SoftJapão" 
-
-
-"Game": " Fleet Commander" 
-"Dev": "ASCII Entertainment"
-
-"Game": " Flintstones: Rescue of Dino and Hoppy" 
-"Dev": "Taito"
-
-"Game": " Flipull" 
-"Dev": "Taito"
-
-"Game": " Flying HeroEpic Sony RecordJapão" 
-
-
-"Game": " Formation Z" 
-"Dev": "Jaleco"
-
-"Game": " Front Line" 
-"Dev": "Taito"
-
-"Game": " Fudo Myouoden" 
-"Dev": "Taito"
-
-"Game": " Fushigi na Blobby" 
-"Dev": "Jaleco"
-
-"Game": " Fushigi no Umi Nadia: The Secret of Blue Water" 
-"Dev": "Toho" 
-
-"Game": " Fuzzical FighterSigma EntertainmentJapão" 
-
-
-
-
-
-"Game": " Galaga" 
-"Dev": "Namco"
-
-"Game": " Galaxian" 
-"Dev": "Namco"
-
-"Game": " Gambler Jiko Chuushinha" 
-"Dev": "Asmik Ace"
-
-"Game": " Gambler Jiko Chuushinha 2" 
-"Dev": "Asmik Ace"
-
-"Game": " Game Party" 
-"Dev": "Coconuts Japan"
-
-"Game": "The Legend of the Mystical Ninja" 
-"Dev": "Konami"
-
-"Game": "The Legend of the Mystical Ninja 2" 
-"Dev": "Konami"
-
-"Game": " Ganbare Goemon Gaiden: Kieta Ougon Kiseru"
-"Dev": "Konami"
-
-"Game": " Ganbare Goemon Gaiden 2" 
-"Dev": "Konami"
-
-"Game": " Ganbare Pennant Race!" 
-"Dev": "Konami"
-
-"Game": " Garfield no Isshukan" 
-"Dev": "Towachiki"
-
-"Game": " Gaurdic Gaiden" 
-"Dev": "Irem"
-
-"Game": " Gegege no Kitaro: Youkai Daimakyou" 
-"Dev": "Bandai"
-
-"Game": " Gegege no Kitaro 2" 
-"Dev": "Bandai"
-
-"Game": " Geimos" 
-"Dev": "ASCII Entertainment"
-
-"Game": "Teenage Mutant Ninja Turtles" 
-"Dev": "Konami"
-
-"Game": " Gekitotsu Shiku Battle" 
-"Dev": "Bandai"
-
-"Game": "World Wrestling" 
-"Dev": "Tecmo"
-
-"Game": " Gekitou!! Stadium" 
-"Dev": "Tecmo"
-
-"Game": " Genpei Toumaden" 
-"Dev": "Namco"
-
-"Game": " Getsufuu Maden" 
-"Dev": "Konami"
-
-"Game": " Ghostbusters" 
-"Dev": "Tokuma Shoten"
-
-"Game": " Gimme a Break: Shijou Saidai no Quiz Ou Ketteisen" 
-"Dev": "Yonezawa PR21"
-
-"Game": " Gimme a Break: Shijou Saikyou no Quiz Ou Ketteisen" 
-"Dev": "Yonezawa PR21"
-
-"Game": " Gimmick" 
-"Dev": "Konami"
-
-"Game": " Ginga Eiyuu Densetsu" 
-"Dev": "Kemco"
-
-"Game": " Ginga no Sannin" 
-"Dev": "Nintendo"
-
-"Game": " Goal!" 
-"Dev": "Jaleco"
-
-"Game": " God Slayer" 
-"Dev": "SNK"
-
-"Game": " Godzilla" 
-"Dev": "Toho" 
-
-"Game": " Golby no Pipeline Daisakusen" 
-"Dev": "Tokuma Shoten"
-
-"Game": " Golf" 
-"Dev": "Nintendo"
-
-"Game": " The Golf '92G.O.1Japão" 
-
-"Game": " Golf Clun: Birdie Rush" 
-"Dev": "Data East"
-
-"Game": " Golf Grand SlamHect" 
-
-
-"Game": " Golf-kko Open" 
-"Dev": "Taito"
-
-"Game": " Golgo 13: Kamigami no Koukon" 
-"Dev": "Vic Tokai"
-
-"Game": " Golgo 13 II" 
-"Dev": "Vic Tokai"
-
-"Game": " Gomoku Narabe" 
-"Dev": "Nintendo"
-
-"Game": " Goonies" 
-"Dev": "Konami"
-
-"Game": " Goonies II: Flattery Saigo no Chousen" 
-"Dev": "Konami"
-
-"Game": " Gorilla Man" 
-"Dev": "Yonezawa PR21"
-
-"Game": " Gozonji Yajikitatin Douchuu" 
-"Dev": "HAL"
-
-"Game": " Gradius" 
-"Dev": "Konami"
-
-"Game": " Gradius II" 
-"Dev": "Konami"
-
-"Game": " Grand Master (Famicom)VarieJapão" 
-
-
-"Game": " Great Battle Cyber" 
-"Dev": "Banpresto"
-
-"Game": " Great Boxing - Rush Up" 
-"Dev": "Visco"
-
-"Game": " Great DealHectJapão" 
-
-
-"Game": " Great Tank" 
-"Dev": "SNK"
-
-"Game": " Gremlins 2: The New Batch" 
-"Dev": "SunSoft"
-
-"Game": " Guevara" 
-"Dev": "SNK"
-
-"Game": " Gun HeadVarieJapão" 
-
-
-"Game": " Gun Nac" 
-"Dev": "Tonkin House"
-
-"Game": " Gun Sight" 
-"Dev": "Konami"
-
-"Game": " Gun-DecSammy" 
-
-
-"Game": " Gyrodyne" 
-"Dev": "Taito" 
-
-"Game": " Hana no Star Kaidou" 
-"Dev": "Victor Interactive"
-
-"Game": " Hanjuku Hero" 
-"Dev": "Squaresoft"
-
-"Game": " Happy Birthday Bugs" 
-"Dev": "Kemco"
-
-"Game": " HatrisBullet Proof" 
-
-
-"Game": " Hayauchi Super Igo" 
-"Dev": "Namco"
-
-"Game": " Heavy Barrel" 
-"Dev": "Data East"
-
-"Game": " Hebereke" 
-"Dev": "SunSoft" 
-
-"Game": " Heisei Tensai Bakabon" 
-"Dev": "Namco"
-
-"Game": " Hello Kitty no HanabatakeCharacter SoftJapão" 
-
-
-"Game": " Hello Kitty WorldCharacter SoftJapãoGame BoyBalloon Kid" 
-
-
-"Game": " Hercules no Eikou" 
-"Dev": "Data East"
-
-"Game": " Hercules no Eikou II" 
-"Dev": "Data East"
-
-"Game": " Hi no Tori: Wagaou no Bouken" 
-"Dev": "Konami" 
-
-"Game": " Higemaru Makaishima "
-"Dev": "Capcom" 
-
-
-"Game": " Highway Star" 
-"Dev": "Squaresoft"
-
-"Game": " Hirake! Ponkikki" 
-"Dev": "Takara"
-
-"Game": " Flying Dragon: The Secret Scroll" 
-"Dev": "Culture Brain"
-
-"Game": " Hiryu no Ken II" 
-"Dev": "Culture Brain"
-
-"Game": " Hiryu no Ken III - 5 Nin no Ryuu Senshi" 
-"Dev": "Culture Brain"
-
-"Game": " Hiryu no Ken Special: Fighting Wars " 
-"Dev": "Culture Brain"
-
-"Game": " Hissatsu Doujou YaburiSigma EntertainmentJapão" 
-
-
-"Game": " Hissatsu Shigotojin" 
-"Dev": "Banpresto"
-
-"Game": " Bionic Commando" 
-"Dev": "Capcom"
-
-
-"Game": " Hogan's Alley" 
-"Dev": "Nintendo"
-
-
-"Game": " Hokkaidou Rensa Satsujin: Ohotsuku ni Kiyu" 
-"Dev": "ASCII Entertainment"
-
-"Game": " Hokuto no Ken" 
-"Dev": "Toei Animation"
-
-"Game": " Hokuto no Ken II" 
-"Dev": "Toei Animation"
-
-"Game": " Hokuto no Ken III" 
-"Dev": "Toei Animation"
-
-"Game": " Hokuto no Ken 4" 
-"Dev": "Toei Animation"
-
-"Game": " Holy Diver "
-"Dev": "Irem"
-
-
-"Game": " Home Run Night" 
-"Dev": "Data East"
-
-"Game": " Home Run Night '90" 
-"Dev": "Data East"
-
-"Game": " Honmei" 
-"Dev": "Nihon Bussan"
-
-"Game": " Honoo no Doukyuuji: Dodge Danpei" 
-"Dev": "SunSoft"
-
-"Game": " Honoo no Doukyuuji: Dodge Danpei 2" 
-
-
-"Game": " Honshogi: Naitou Kudan Shogi Hiden",
-    "Dev": "Seta"
-
-
-"Game": " HookEpic Sony Record" 
-
-
-"Game": "Kirby's Adventure" 
-"Dev": "Nintendo"
-
-"Game": " Hoshi no Miru HitoHot-BJapão" 
-
-
-"Game": " Hostage" 
-"Dev": "Kemco"
-
-"Game": " Hot Dance 2000Dance Dance Revolution" 
-
-
-"Game": " Hototogisu "Dev":"Irem"Japão" 
-
-
-"Game": " Hottaman no Chisoko TankenUseJapão" 
-
-
-"Game": " Houma ga Koku" 
-"Dev": "Toho" 
-
-"Game": " Hudson HawkEpic Sony Record" 
-
-
-"Game": " Hyaku no Sekai no MonogatariASKJapão" 
-
-
-"Game": " Hydlide Special" 
-"Dev": "Toshiba EMI"
-
-"Game": " Hydlide 3" 
-"Dev": "Namco"
-
-"Game": " Hyokkori Hyoutan Shima: Nazo no KaizokusenYutakaJapão" 
-
-
-"Game": "Track & Field"
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    "Game": "Track & Field"
 "Dev": "Konami" 
 
 
@@ -1540,23 +1733,29 @@
 "Game": " Idol Yainuden" 
 "Dev": "Towachiki"
 
-"Game": " Igo MeikanAoki ShotenJapão" 
+"Game": " Igo Meikan"
+"Dev": "Aoki Shoten" 
 
 
-"Game": " Igo ShinanHectJapão" 
+"Game": " Igo Shinan"
+"Dev": "Hect" 
 
 
-"Game": " Igo Shinan '91HectJapão" 
+"Game": " Igo Shinan '91"
+"Dev": "Hect" 
 
 
 
-"Game": " Igo Shinan '92HectJapão" 
+"Game": " Igo Shinan '92"
+"Dev": "Hect" 
 
 
-"Game": " Igo Shinan '93HectJapão" 
+"Game": " Igo Shinan '93"
+"Dev": "Hect" 
 
 
-"Game": " Igo Shinan '94HectJapão" 
+"Game": " Igo Shinan '94"
+"Dev": "Hect" 
 
 
 "Game": " Igo: Kuroban TaikyokuBullet Proof SoftwareJapão" 
@@ -1682,7 +1881,8 @@
 
 
 
-"Game": " Kabushiki DoujouHectJapão" 
+"Game": " Kabushiki Doujou"
+"Dev": "Hect" 
 
 
 "Game": "The Legend of Kage " 
@@ -1727,8 +1927,8 @@
 "Game": " Kamen Rider SD" 
 "Dev": "Angel Studios"
 
-"Game": " Karakuri Kengoden Musashi Road: Karakuri Jin ShissouruYutakaJapão" 
-
+"Game": " Karakuri Kengoden Musashi Road: Karakuri Jin Shissouru" 
+ "Dev": "Yutaka"  
 
 "Game": " Karaoke Studio" 
 "Dev": "Bandai"
@@ -1769,14 +1969,14 @@
 "Game": " Keisan Game: Sansuu 5+6 Toshi" 
 "Dev": "Tokyo Shoseki"
 
-"Game": " Kero Kero Keroppi no DaiboukenCharacter SoftJapão" 
+"Game": " Kero Kero Keroppi no Daibouken" 
+"Dev": "Character Soft"
 
+"Game": " Kero Kero Keroppi no Daibouken 2" 
+"Dev": "Character Soft"
 
-"Game": " Kero Kero Keroppi no Daibouken 2Character SoftJapão" 
-
-
-"Game": " Keroppi to Kerorii nuno Splash BombCharacter SoftJapão" 
-
+"Game": " Keroppi to Kerorii nuno Splash Bomb" 
+"Dev": "Character Soft"
 
 "Game": " Keru Naguru" 
  "Dev": "Namco"
@@ -1855,7 +2055,8 @@
 
 
 
-"Game": " Kyouto Zai Deck Tatsujin Jiken Yamamura Misa SuspenseHectJapão" 
+"Game": " Kyouto Zai Deck Tatsujin Jiken Yamamura Misa Suspense"
+"Dev": "Hect" 
 
 
 "Game": " Kyuukyoku Harikiri Koshien" 
@@ -1897,8 +2098,8 @@
 "Game": " Law of the West" 
 "Dev": "Pony Canyon"
 
-"Game": " LaylaDB SoftJapão" 
-
+"Game": " Layla" 
+"Dev": "DB Soft"
 
 "Game": " Little Magic" 
 "Dev": "Data East"
@@ -1910,8 +2111,8 @@
 "Game": " Little Red HoodThin Chen EnterpriseAustrália[1]" 
 
 
-"Game": " Live in Power Bowl - TM NetworkEpic Sony RecordJapão" 
-
+"Game": " Live in Power Bowl - TM Network" 
+"Dev": "Epic Sony Record"
 
 "Game": " Lode Runner" 
 "Dev": "Hudson Soft"
@@ -1975,7 +2176,8 @@
 "Game": " Mahjong" 
 "Dev": "Nintendo"
 
-"Game": " Mahjong Club Nagatacho: SousaisenHectJapão" 
+"Game": " Mahjong Club Nagatacho: Sousaisen"
+"Dev": "Hect" 
 
 
 "Game": " Mahjong Taikai" 
@@ -1984,8 +2186,8 @@
 "Game": " Mahjong Taisen" 
 "Dev": "Nichibutsu"
 
-"Game": " Mahou no Princess Minkiimomo Remember DreamYutakaJapão" 
-
+"Game": " Mahou no Princess Minkiimomo Remember Dream" 
+ "Dev": "Yutaka"  
 
 "Game": " Maison Ikkoku"
 "Dev": "Bothtec" 
@@ -2038,7 +2240,8 @@
 "Game": " Masuzoe Kaname Icchou Made Famicom" 
 "Dev": "Coconuts Japan"
 
-"Game": " Matendo DoujiQuest CorporationJapão" 
+"Game": " Matendo Douji"
+"Dev": "Quest Corporation" 
 
 
 "Game": " Matsumoto Akira no Kabushiki HisshougakuImagineerJapão" 
@@ -2116,8 +2319,8 @@
 "Game": " Mini-PuttA-WaveJapão" 
 
 
-"Game": " Minna no Tabou no Nakayoshi DaisakusenCharacter SoftJapão" 
-
+"Game": " Minna no Tabou no Nakayoshi Daisakusen" 
+"Dev": "Character Soft"
 
 "Game": " Miracle Ropitt" 
 "Dev": "King Records"
@@ -2204,7 +2407,8 @@
 "Game": " Monster Maker: 7-tsu no Hihou" 
 "Dev": "Sofel"
 
-"Game": " Moon CrystalHectJapão" 
+"Game": " Moon Crystal"
+"Dev": "Hect" 
 
 
 "Game": " Morita Shogi" 
@@ -2226,8 +2430,8 @@
 "Game": " Murder Club" 
 "Dev": "Seta"
 
-"Game": " Musashi no BoukenSigma EntertainmentJapão" 
-
+"Game": " Musashi no Bouken" 
+"Dev": "Sigma Entertainment"
 
 "Game": " Musashi no Ken - Tadaima Shugyou Chuu" 
 "Dev": "Taito"
@@ -2238,14 +2442,14 @@
 "Game": " Nagagutsu o Haita Neko" 
 "Dev": "Toei Animation"
 
-"Game": " Nakashima Satoshi: F1 HeroVarieJapão" 
+"Game": " Nakashima Satoshi: F1 Hero" 
+"Dev": "Varie"
 
+"Game": " Nakashima Satoshi: F1 Hero 2" 
+"Dev": "Varie"
 
-"Game": " Nakashima Satoshi: F1 Hero 2VarieJapão" 
-
-
-"Game": " Nakayo Shito IsshoYutakaJapão" 
-
+"Game": " Nakayo Shito Issho" 
+ "Dev": "Yutaka"  
 
 "Game": " Nakiri YagyouJapão" 
 
@@ -2259,8 +2463,8 @@
 "Dev": "Irem"
 
 
-"Game": " Navy BlueI'MaxJapão" 
-
+"Game": " Navy Blue" 
+"Dev": "I'Max"
 
 "Game": " Naza no Fuuin" 
 "Dev": "ASCII Entertainment"
@@ -2419,14 +2623,14 @@
 "Game": " Palamedes" 
 "Dev": "Hot B"
 
-"Game": " Palamedes 2Hot-BJapão" 
-
+"Game": " Palamedes 2" 
+"Dev": "Hot-B"
 
 "Game": " PaperboyAltron" 
 
 
-"Game": " Parareru WorldVarieJapão" 
-
+"Game": " Parareru World" 
+"Dev": "Varie"
 
 "Game": " Parasol Henbee" 
 "Dev": "Epoch"
@@ -2500,8 +2704,8 @@
 "Game": " Predator",
     "Dev": "Sammy Studios"
 
-"Game": " President no SentakuHot-BJapão" 
-
+"Game": " President no Sentaku" 
+"Dev": "Hot-B"
 
 "Game": " Pro Yakyuu Family Stadium" 
 "Dev": "Namco"
@@ -2544,7 +2748,8 @@
 "Game": " Quinty" 
 "Dev": "Namco"
 
-"Game": " Quiz Project Q: Cutie Project & Battle 1000HectJapão" 
+"Game": " Quiz Project Q: Cutie Project & Battle 1000"
+"Dev": "Hect" 
 
 
 
@@ -2694,14 +2899,14 @@
 "Game": " Sanma no Meitantei" 
 "Dev": "Namco"
 
-"Game": " Sanrio CarnivalCharacter SoftJapão" 
+"Game": " Sanrio Carnival" 
+"Dev": "Character Soft"
 
+"Game": " Sanrio Carnival 2" 
+"Dev": "Character Soft"
 
-"Game": " Sanrio Carnival 2Character SoftJapão" 
-
-
-"Game": " Sanrio CupCharacter SoftJapão" 
-
+"Game": " Sanrio Cup" 
+"Dev": "Character Soft"
 
 "Game": " Sansara Naga" 
 "Dev": "Victor Interactive"
@@ -2804,13 +3009,16 @@
 "Dev": "Irem" 
 
 
-"Game": " Shogi Meikan '92HectJapão" 
+"Game": " Shogi Meikan '92"
+"Dev": "Hect" 
 
 
-"Game": " Shogi Meikan '93HectJapão" 
+"Game": " Shogi Meikan '93"
+"Dev": "Hect" 
 
 
-"Game": " ShogunHectJapão" 
+"Game": " Shogun"
+"Dev": "Hect" 
 
 
 "Game": " Shounen Ashibe Nepal Daibouken no Maki" 
@@ -2855,8 +3063,8 @@
 "Dev": "Tecmo" 
 
 
-"Game": " SolsticeEpic Sony Record" 
-
+"Game": " Solstice" 
+"Dev": "Epic Sony Record"
 
 "Game": " Son Son" 
 "Dev": "Capcom"
@@ -2951,7 +3159,8 @@ Back"
 "Game": " Street Fighter 2010" 
 "Dev": "Capcom"
 
-"Game": " Sugoro Quest: Dice no Senshi Tachi "Dev": "Technos" Japão" 
+"Game": " Sugoro Quest: Dice no Senshi Tachi" 
+"Dev": "Technos" 
 
 
 "Game": " Suikoden" 
@@ -3072,11 +3281,11 @@ Back"
 "Game": " Takahashi Meijin no Bug-tte Honey" 
 "Dev": "Hudson Soft"
 
-"Game": " Takeda ShingenHot-BJapão" 
+"Game": " Takeda Shingen" 
+"Dev": "Hot-B"
 
-
-"Game": " Takeda Shingen 2Hot-B" 
-
+"Game": " Takeda Shingen 2" 
+"Dev": "Hot-B"
 
 "Game": " Takeshi no Chousenjou" 
 "Dev": "Taito"
@@ -3106,8 +3315,8 @@ Back"
 "Game": " Tao" 
 "Dev": "Vap"
 
-"Game": " Tashiro Masashi no Princess ga IppaiEpic Sony RecordJapão" 
-
+"Game": " Tashiro Masashi no Princess ga Ippai" 
+"Dev": "Epic Sony Record"
 
 "Game": " Tatakai no Banka" 
 
@@ -3157,8 +3366,8 @@ BoyTetris Blast"
 "Game": " Tetris Flash" 
 "Dev": "Nintendo"
 
-"Game": " Tetsudou-OhDB SoftJapão" 
-
+"Game": " Tetsudou-Oh" 
+"Dev": "DB Soft"
 
 "Game": " Tetsuwan Atom" 
 "Dev": "Konami"
@@ -3175,8 +3384,8 @@ BoyTetris Blast"
 "Game": " Tiger-Heli "Dev":"Pony Canyon"" 
 
 
-"Game": " Time ZoneSigma EntertainmentJapão" 
-
+"Game": " Time Zone" 
+"Dev": "Sigma Entertainment"
 
 "Game": " Times of Lore" 
 "Dev": "Toho" 
@@ -3194,8 +3403,8 @@ BoyTetris Blast"
 "Dev": "Angel Studios"
 
 
-"Game": " Tokoro-San no Mamorumo SemerumoEpic Sony RecordJapão" 
-
+"Game": " Tokoro-San no Mamorumo Semerumo" 
+"Dev": "Epic Sony Record"
 
 "Game": " Tokyo Pachi-Slot Adventure" 
 "Dev": "Coconuts Japan"
@@ -3214,8 +3423,8 @@ BoyTetris Blast"
 "Dev": "Koei"
 
 
-"Game": " Top RiderVarieJapão" 
-
+"Game": " Top Rider" 
+"Dev": "Varie"
 
 "Game": " Top Striker" 
 "Dev": "Namco"
@@ -3303,8 +3512,8 @@ BoyTetris Blast"
 "Game": " USA Ice Hockey in FC" 
 "Dev": "Jaleco"
 
-"Game": " Ushio TotoraYutakaJapão" 
-
+"Game": " Ushio Totora" 
+ "Dev": "Yutaka"  
 
 "Game": " Utsurun Desu - Kawauso Hawaii e iku" 
 "Dev": "Takara"
@@ -3314,17 +3523,17 @@ BoyTetris Blast"
 "Game": "The Legend of Valkyrie" 
 "Dev": "Namco"
 
-"Game": " Vegas ConnectionSigma EntertainmentJapão" 
+"Game": " Vegas Connection" 
+"Dev": "Sigma Entertainment"
 
+"Game": " Venus Senki" 
+"Dev": "Varie"
 
-"Game": " Venus SenkiVarieJapão" 
+"Game": " Viva Las Vegas" 
+"Dev": "Epic Sony Record"
 
-
-"Game": " Viva Las VegasEpic Sony RecordVegas Dream" 
-
-
-"Game": " Volguard IIDB SoftJapão" 
-
+"Game": " Volguard II" 
+"Dev": "DB Soft"
 
 
 "Game": " Volleyball" 
@@ -3474,8 +3683,10 @@ BoyTetris Blast"
 "Game": " Zoids Mokushiroku" 
 "Dev": "Tomy"
 
-"Game": " Zombie HunterHi-Score Media WorkJapão" 
+"Game": " Zombie Hunter"
+"Dev": "Hi-Score Media Work" 
 
 
-"Game": " Zunou Senkan GalgDB SoftJapão"
+"Game": " Zunou Senkan Galg"
+"Dev": "DB Soft"
 ]

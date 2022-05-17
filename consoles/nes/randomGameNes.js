@@ -4,7 +4,7 @@ const games = {
 let randomGame;
 
 async function getData() {
-    const dataPath = './retro_game.json';
+    const dataPath = './nes.json';
     const data = await fetch(dataPath);
     const dataJson = await data.json();
 
