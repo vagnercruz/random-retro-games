@@ -1692,423 +1692,489 @@
         "Game": " Hyokkori Hyoutan Shima: Nazo no Kaizokusen",
         "Dev": "Yutaka"
     },
+    {
+        "Game": "Track & Field",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Hyper Sports",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " I Love Softball",
+        "Dev": "Coconuts Japan"
+    },
+    {
+        "Game": " Ice Climber"
+    },
+    {
+        "Game": " Ice Hockey",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Ide Yosuke Meijin no Jissen Mahjong",
+        "Dev": "Capcom"
+    },
+    {
+        "Game": " Ide Yosuke Meijin no Jissen Mahjong II",
+        "Dev": "Capcom"
+    },
+    {
+        "Game": " Idol Yainuden",
+        "Dev": "Towachiki"
+    },
+    {
+        "Game": " Igo Meikan",
+        "Dev": "Aoki Shoten"
+    },
+    {
+        "Game": " Igo Shinan",
+        "Dev": "Hect"
+    },
+    {
+        "Game": " Igo Shinan '91",
+        "Dev": "Hect"
+    },
+    {
+        "Game": " Igo Shinan '92",
+        "Dev": "Hect"
+    },
+    {
+        "Game": " Igo Shinan '93",
+        "Dev": "Hect"
+    },
+    {
+        "Game": " Igo Shinan '94",
+        "Dev": "Hect"
+    },
+    {
+        "Game": " Igo: Kuroban Taikyoku",
+        "Dev": "Bullet Proof Software"
+    },
+    {
+        "Game": " Ikari",
+        "Dev": "K Amusement"
+    },
+    {
+        "Game": " Ikari II",
+        "Dev": "K Amusement"
+    },
+    {
+        "Game": " Ikari III",
+        "Dev": "K Amusement"
+    },
+    {
+        "Game": " IkeIke! Nekketsu Hockey-bu",
+        "Dev": "Technos"
+    },
+    {
+        "Game": " Ikinari Musician",
+        "Dev": "Tokyo Shoseki"
+    },
+    {
+        "Game": " Ikki",
+        "Dev": "SunSoft"
+    },
+    {
+        "Game": " Image Fight",
+        "Dev": "Koei"
+    },
+    {
+        "Game": " Inbou no Wakusei: Shankara",
+        "Dev": "IGS"
+    },
+    {
+        "Game": " Insector X ",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Ishin no Arashi",
+        "Dev": "Koei"
+    },
+    {
+        "Game": " Itadaki Street: Watashi no Oten Niyottete",
+        "Dev": "ASCII Entertainment"
+    },
+    {
+        "Game": " Izaki Shuugorou no Keiba Hisshougaku",
+        "Dev": "Imagineer"
+    },
+    {
+        "Game": " J-League Fighting Soccer: The King of Ace Strikers",
+        "Dev": "IGS"
+    },
+    {
+        "Game": " J-League Super Top Players",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " J-League Winning Goal",
+        "Dev": "Electronic Arts Victor"
+    },
+    {
+        "Game": " Jackie Chan",
+        "Dev": "Hudson Soft"
+    },
+    {
+        "Game": " Jajamaru Gekimaden",
+        "Dev": "Jaleco"
+    },
+    {
+        "Game": " Jajamaru Ninpou Chou",
+        "Dev": "Jaleco"
+    },
+    {
+        "Game": " Jajamaru no Daibouken",
+        "Dev": "Jaleco"
+    },
+    {
+        "Game": " Jarin-Ko Chie",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Jesus: Dreadful Bio-Monster",
+        "Dev": "King Records"
+    },
+    {
+        "Game": " Jetsons, The ",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Jigoku Gokuraku Maru",
+        "Dev": "Sammy Studios"
+    },
+    {
+        "Game": " Jikuu (Toki) no Tabibito",
+        "Dev": "Kemco"
+    },
+    {
+        "Game": " Jikuu Yuten Debias",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Joust",
+        "Dev": "HAL"
+    },
+    {
+        "Game": " Joy Mech Fight",
+        "Dev": "Nintendo"
+    },
+    {
+        "Game": " Jubei Quest ",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " JuJu Densetsu",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Jumbo",
+        "Dev": "K Amusement"
+    },
+    {
+        "Game": " Jumbo Osaki no Hole In One",
+        "Dev": "HAL"
+    },
+    {
+        "Game": " Jumping Kid",
+        "Dev": "Asmik Ace"
+    },
+    {
+        "Game": " Just Breed",
+        "Dev": "Enix"
+    },
+    {
+        "Game": "Metal Storm",
+        "Dev": "Irem"
+    },
+    {
+        "Game": "Altered Beast",
+        "Dev": "Asmik Ace"
+    },
+    {
+        "Game": " Kabushiki Doujou",
+        "Dev": "Hect"
+    },
+    {
+        "Game": "The Legend of Kage ",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Kagerou Densetsu",
+        "Dev": "Pixel Multimedia"
+    },
+    {
+        "Game": " Kaguya Hime Densetsu",
+        "Dev": "Victor Interactive"
+    },
+    {
+        "Game": " Kai no Bouken: The Quest of Ki",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Kaijuu Monogatari"
+    },
+    {
+        "Game": " Kaiketsu Yancha Maru ",
+        "Dev": "Irem"
+    },
+    {
+        "Game": " Kaiketsu Yancha Maru 2: Karakuri Land",
+        "Dev": "Irem"
+    },
+    {
+        "Game": " Kaiketsu Yancha Maru 3",
+        "Dev": "Irem"
+    },
+    {
+        "Game": " Kakefu Kimi no Jump Tengoku",
+        "Dev": "Vic Tokai"
+    },
+    {
+        "Game": " Kame no Ongaeshi",
+        "Dev": "Hudson Soft"
+    },
+    {
+        "Game": " Kamen no Ninja Hamaru Yo! Noid",
+        "Dev": "Capcom"
+    },
+    {
+        "Game": " Kamen Rider Kurabu",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Kamen Rider SD",
+        "Dev": "Angel Studios"
+    },
+    {
+        "Game": " Karakuri Kengoden Musashi Road: Karakuri Jin Shissouru",
+        "Dev": "Yutaka"
+    },
+    {
+        "Game": " Karaoke Studio",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Karaoke Studio Senyou Cassette Vol. 1",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Karaoke Studio Senyou Cassette Vol. 2",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Karateka",
+        "Dev": "Soft Pro"
+    },
+    {
+        "Game": " Karnov",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Katsuba Densetsu",
+        "Dev": "Nihon Bussan"
+    },
+    {
+        "Game": " Katte ni Shiro Kuma",
+        "Dev": "CBS Sony Group"
+    },
+    {
+        "Game": " Kawa no Nushi Tsuri",
+        "Dev": "Sammy Studios"
+    },
+    {
+        "Game": " Keisan Game: Sansuu 1 Toshi",
+        "Dev": "Tokyo Shoseki"
+    },
+    {
+        "Game": " Keisan Game: Sansuu 2 Toshi",
+        "Dev": "Tokyo Shoseki"
+    },
+    {
+        "Game": " Keisan Game: Sansuu 3 Toshi",
+        "Dev": "Tokyo Shoseki"
+    },
+    {
+        "Game": " Keisan Game: Sansuu 4 Toshi",
+        "Dev": "Tokyo Shoseki"
+    },
+    {
+        "Game": " Keisan Game: Sansuu 5+6 Toshi",
+        "Dev": "Tokyo Shoseki"
+    },
+    {
+        "Game": " Kero Kero Keroppi no Daibouken",
+        "Dev": "Character Soft"
+    },
+    {
+        "Game": " Kero Kero Keroppi no Daibouken 2",
+        "Dev": "Character Soft"
+    },
+    {
+        "Game": " Keroppi to Kerorii nuno Splash Bomb",
+        "Dev": "Character Soft"
+    },
+    {
+        "Game": " Keru Naguru",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Kidou Senshi Z-Gundam: Hot Scramble",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " King Kong 2: Ikari no Megaton Punch",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " King of Kings",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " King's Knight",
+        "Dev": "Square"
+    },
+    {
+        "Game": " Kinnikuman: Muscle Tag Match",
+        "Dev": "Hudson Soft"
+    },
+    {
+        "Game": " Kiteretsu Daihyakka",
+        "Dev": "Epoch"
+    },
+    {
+        "Game": " Kitte Rai Da! Gunjin Shougi Nanya Sore?",
+        "Dev": "Sofel"
+    },
+    {
+        "Game": " Klax",
+        "Dev": "Hudson Soft"
+    },
+    {
+        "Game": " Knight Rider",
+        "Dev": "Sammy Studios"
+    },
+    {
+        "Game": "Track & Field II",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Koufuku o Yobu Game: Dora Dora Dora",
+        "Dev": "Natsume"
+    },
+    {
+        "Game": " Kouryu Densetsu Villgust Gaiden",
+        "Dev": "Angel Studios"
+    },
+    {
+        "Game": " Koushien",
+        "Dev": "K Amusement"
+    },
+    {
+        "Game": " Kujaku",
+        "Dev": "Pony Canyon"
+    },
+    {
+        "Game": " Kujaku Ou II",
+        "Dev": "Pony Canyon"
+    },
+    {
+        "Game": " Kunio-Kun no Jidaigeki dayo Zenin Shuugou: Downtown Special",
+        "Dev": "Technos"
+    },
+    {
+        "Game": " Kunio-Kun no Nekketsu Soccer League",
+        "Dev": "Technos"
+    },
+    {
+        "Game": " Samurai Pizza Cats",
+        "Dev": "Tecmo"
+    },
+    {
+        "Game": " Kyonshis 2 ",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Kyoro-Chan Land"
+    },
+    {
+        "Game": " Kyoryu Sentai Zyuranger",
+        "Dev": "Angel Studios"
+    },
+    {
+        "Game": " Kyouto Hana no Misshitsu Satsujin Jiken - Yamamura Misa Suspense",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Kyoutoken no Tera Satsujin Jiken - Yamamura Misa Suspense",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Kyouto Zai Deck Tatsujin Jiken Yamamura Misa Suspense",
+        "Dev": "Hect"
+    },
+    {
+        "Game": " Kyuukyoku Harikiri Koshien",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Kyuukyoku Harikiri Stadium",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Kyuukyoku Harikiri Stadium '88",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Kyuukyoku Harikiri Stadium Heisei Gannenhan",
+        "Dev": "Taito"
+    },
+    {
+        "Game": " Kyuukyoku Harikiri Stadium III ",
+        "Dev": "Taito"
+    },
+    {
+        "Game": "Twin Cobra",
+        "Dev": "CBS Sony Group"
+    },
+    {
+        "Game": " L'Empereur",
+        "Dev": "Koei"
+    },
+    {
+        "Game": " La Salle Ishii no Child's Quest",
+        "Dev": "Namco"
+    },
+    {
+        "Game": " Labyrinth",
+        "Dev": "Tokuma Shoten"
+    },
+    {
+        "Game": " Lagrange Point",
+        "Dev": "Konami"
+    },
+    {
+        "Game": " Last Armageddon",
+        "Dev": "Bandai"
+    },
+    {
+        "Game": " Law of the West",
+        "Dev": "Pony Canyon"
+    },
+    {
+        "Game": " Layla",
+        "Dev": "DB Soft"
+    },
+    {
+        "Game": " Little Magic",
+        "Dev": "Data East"
+    },
+    {
+        "Game": " Little Mermaid",
+        "Dev": "Capcom"
+    },
     {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    "Game": "Track & Field"
-"Dev": "Konami" 
-
-
-"Game": " Hyper Sports" 
-"Dev": "Konami"
-
-"Game": " I Love Softball" 
-"Dev": "Coconuts Japan"
-
-"Game": " Ice Climber" 
-
-
-"Game": " Ice Hockey" 
-"Dev": "Nintendo"
-
-"Game": " Ide Yosuke Meijin no Jissen Mahjong" 
-"Dev": "Capcom"
-
-"Game": " Ide Yosuke Meijin no Jissen Mahjong II"
-"Dev": "Capcom" 
-
-
-"Game": " Idol Yainuden" 
-"Dev": "Towachiki"
-
-"Game": " Igo Meikan"
-"Dev": "Aoki Shoten" 
-
-
-"Game": " Igo Shinan"
-"Dev": "Hect" 
-
-
-"Game": " Igo Shinan '91"
-"Dev": "Hect" 
-
-
-
-"Game": " Igo Shinan '92"
-"Dev": "Hect" 
-
-
-"Game": " Igo Shinan '93"
-"Dev": "Hect" 
-
-
-"Game": " Igo Shinan '94"
-"Dev": "Hect" 
-
-
-"Game": " Igo: Kuroban TaikyokuBullet Proof SoftwareJapão" 
-
-
-"Game": " Ikari" 
-"Dev": "K Amusement"
-
-"Game": " Ikari II" 
-"Dev": "K Amusement"
-
-"Game": " Ikari III" 
-"Dev": "K Amusement"
-
-"Game": " IkeIke! Nekketsu Hockey-bu "Dev": "Technos" Japão" 
-
-
-"Game": " Ikinari Musician" 
-"Dev": "Tokyo Shoseki"
-
-"Game": " Ikki" 
-"Dev": "SunSoft"
-
-"Game": " Image Fight" 
-"Dev": "Koei"
-
-"Game": " Inbou no Wakusei: Shankara" 
-"Dev": "IGS"
-
-"Game": " Insector X "
-"Dev": "Taito" 
-
-
-"Game": " Ishin no Arashi" 
-"Dev": "Koei"
-
-"Game": " Itadaki Street: Watashi no Oten Niyottete" 
-"Dev": "ASCII Entertainment"
-
-"Game": " Izaki Shuugorou no Keiba HisshougakuImagineerJapão" 
-
-
-
-
-
-"Game": " J-League Fighting Soccer: The King of Ace Strikers" 
-"Dev": "IGS"
-
-"Game": " J-League Super Top Players" 
-"Dev": "Bandai"
-
-"Game": " J-League Winning GoalElectronic Arts VictorJapão" 
-
-
-"Game": " Jackie Chan" 
-"Dev": "Hudson Soft"
-
-"Game": " Jajamaru Gekimaden" 
-"Dev": "Jaleco"
-
-"Game": " Jajamaru Ninpou Chou" 
-"Dev": "Jaleco"
-
-"Game": " Jajamaru no Daibouken" 
-"Dev": "Jaleco"
-
-"Game": " Jarin-Ko Chie" 
-"Dev": "Konami"
-
-"Game": " Jesus: Dreadful Bio-Monster" 
-"Dev": "King Records"
-
-"Game": " Jetsons, The "Dev":"Taito" Jetsons: Cogswells Caper, The" 
-
-
-"Game": " Jigoku Gokuraku Maru",
-    "Dev": "Sammy Studios"
-
-"Game": " Jikuu (Toki) no Tabibito" 
-"Dev": "Kemco"
-
-"Game": " Jikuu Yuten Debias" 
-"Dev": "Namco"
-
-"Game": " JJSquare Co., Ltd.Japão" 
-
-
-"Game": " Joust" 
-"Dev": "HAL"
-
-"Game": " Joy Mech Fight" 
-"Dev": "Nintendo"
-
-"Game": " Jubei Quest " 
-"Dev": "Namco"
-
-
-"Game": " JuJu Densetsu" 
-"Dev": "Taito"
-
-
-"Game": " Jumbo" 
-"Dev": "K Amusement"
-
-
-"Game": " Jumbo Osaki no Hole In One" 
-"Dev": "HAL"
-
-
-"Game": " Jumping Kid" 
-"Dev": "Asmik Ace"
-
-
-"Game": " Just Breed" 
-"Dev": "Enix"
-
-"Game": "Metal Storm" 
-"Dev": "Irem"
-
-"Game": "Altered Beast" 
-"Dev": "Asmik Ace"
-
-
-
-
-"Game": " Kabushiki Doujou"
-"Dev": "Hect" 
-
-
-"Game": "The Legend of Kage " 
-"Dev": "Taito"
-
-"Game": " Kagerou DensetsuPixel MultimediaJapão" 
-
-
-"Game": " Kaguya Hime Densetsu" 
-"Dev": "Victor Interactive"
-
-"Game": " Kai no Bouken: The Quest of Ki" 
-"Dev": "Namco"
-
-"Game": " Kaijuu Monogatari" 
-
-
-"Game": " Kaiketsu Yancha Maru "
-"Dev": "Irem"
-
-
-"Game": " Kaiketsu Yancha Maru 2: Karakuri Land" 
-"Dev": "Irem"
-
-
-"Game": " Kaiketsu Yancha Maru 3" 
-"Dev": "Irem" 
-
-
-"Game": " Kakefu Kimi no Jump Tengoku" 
-"Dev": "Vic Tokai"
-
-"Game": " Kame no Ongaeshi" 
-"Dev": "Hudson Soft"
-"Game": " Kamen no Ninja Hamaru Yo! Noid"
-"Dev": "Capcom" 
-
-
-"Game": " Kamen Rider Kurabu" 
-"Dev": "Bandai"
-
-"Game": " Kamen Rider SD" 
-"Dev": "Angel Studios"
-
-"Game": " Karakuri Kengoden Musashi Road: Karakuri Jin Shissouru" 
- "Dev": "Yutaka"  
-
-"Game": " Karaoke Studio" 
-"Dev": "Bandai"
-
-"Game": " Karaoke Studio Senyou Cassette Vol. 1" 
-"Dev": "Bandai"
-
-"Game": " Karaoke Studio Senyou Cassette Vol. 2" 
-"Dev": "Bandai"
-
-"Game": " KaratekaSoft ProJapãoEstados UnidosApple IIBrøderbund" 
-
-
-"Game": " Karnov" 
-"Dev": "Namco" 
-
-"Game": " Katsuba Densetsu" 
-"Dev": "Nihon Bussan"
-
-"Game": " Katte ni Shiro Kuma" 
-"Dev": "CBS Sony Group"
-
-"Game": " Kawa no Nushi Tsuri",
-    "Dev": "Sammy Studios"
-
-"Game": " Keisan Game: Sansuu 1 Toshi" 
-"Dev": "Tokyo Shoseki"
-
-"Game": " Keisan Game: Sansuu 2 Toshi" 
-"Dev": "Tokyo Shoseki"
-
-"Game": " Keisan Game: Sansuu 3 Toshi" 
-"Dev": "Tokyo Shoseki"
-
-"Game": " Keisan Game: Sansuu 4 Toshi" 
-"Dev": "Tokyo Shoseki"
-
-"Game": " Keisan Game: Sansuu 5+6 Toshi" 
-"Dev": "Tokyo Shoseki"
-
-"Game": " Kero Kero Keroppi no Daibouken" 
-"Dev": "Character Soft"
-
-"Game": " Kero Kero Keroppi no Daibouken 2" 
-"Dev": "Character Soft"
-
-"Game": " Keroppi to Kerorii nuno Splash Bomb" 
-"Dev": "Character Soft"
-
-"Game": " Keru Naguru" 
- "Dev": "Namco"
-
-"Game": " Kidou Senshi Z-Gundam: Hot Scramble" 
-"Dev": "Bandai"
-
-"Game": " King Kong 2: Ikari no Megaton Punch" 
-"Dev": "Konami"
-
-"Game": " King of Kings" 
- "Dev": "Namco"
-
-"Game": " King's KnightSquare" 
-
-
-"Game": " Kinnikuman: Muscle Tag Match" 
-"Dev": "Hudson Soft"
-
-"Game": " Kiteretsu Daihyakka" 
-"Dev": "Epoch"
-
-"Game": " Kitte Rai Da! Gunjin Shougi Nanya Sore?" 
-"Dev": "Sofel"
-
-"Game": " Klax" 
-"Dev": "Hudson Soft"
-
-"Game": " Knight Rider",
-    "Dev": "Sammy Studios" 
-
-
-"Game": "Track & Field II" 
-"Dev": "Konami"
-
-"Game": " Koufuku o Yobu Game: Dora Dora Dora" 
-"Dev": "Natsume"
-
-"Game": " Kouryu Densetsu Villgust Gaiden" 
-"Dev": "Angel Studios"
-
-"Game": " Koushien" 
-"Dev": "K Amusement"
-
-"Game": " Kujaku" 
-"Dev": "Pony Canyon"
-
-"Game": " Kujaku Ou II" 
-"Dev": "Pony Canyon"
-
-"Game": " Kunio-Kun no Jidaigeki dayo Zenin Shuugou: Downtown Special "Dev": "Technos" Japão" 
-
-
-"Game": " Kunio-Kun no Nekketsu Soccer League "Dev": "Technos" Japão" 
-
-
-"Game": " Samurai Pizza Cats" 
-"Dev": "Tecmo"
-
-"Game": " Kyonshis 2 "
-"Dev": "Taito" 
-
-
-
-"Game": " Kyoro-Chan Land" 
-
-
-"Game": " Kyoryu Sentai Zyuranger" 
-"Dev": "Angel Studios"
-
-"Game": " Kyouto Hana no Misshitsu Satsujin Jiken - Yamamura Misa SuspenSetaitoJapão" 
-
-
-
-"Game": " Kyoutoken no Tera Satsujin Jiken - Yamamura Misa SuspenSetaitoJapão" 
-
-
-
-"Game": " Kyouto Zai Deck Tatsujin Jiken Yamamura Misa Suspense"
-"Dev": "Hect" 
-
-
-"Game": " Kyuukyoku Harikiri Koshien" 
-"Dev": "Taito"
-
-
-"Game": " Kyuukyoku Harikiri Stadium" 
-"Dev": "Taito"
-
-"Game": " Kyuukyoku Harikiri Stadium '88" 
-"Dev": "Taito"
-
-"Game": " Kyuukyoku Harikiri Stadium Heisei Gannenhan" 
-"Dev": "Taito"
-
-"Game": " Kyuukyoku Harikiri Stadium III "
-"Dev": "Taito" 
-
-
-"Game": "Twin Cobra" 
-"Dev": "CBS Sony Group"
-
-"Game": " L'Empereur" 
-"Dev": "Koei"
-
-"Game": " La Salle Ishii no Child's Quest" 
-"Dev": "Namco" 
-
-"Game": " Labyrinth" 
-"Dev": "Tokuma Shoten"
-
-
-"Game": " Lagrange Point" 
-"Dev": "Konami"
-
-"Game": " Last Armageddon" 
-"Dev": "Bandai"
-
-"Game": " Law of the West" 
-"Dev": "Pony Canyon"
-
-"Game": " Layla" 
-"Dev": "DB Soft"
-
-"Game": " Little Magic" 
-"Dev": "Data East"
-
-"Game": " Little Mermaid"
-"Dev": "Capcom" 
-
-
-"Game": " Little Red HoodThin Chen EnterpriseAustrália[1]" 
+    "Game": " Little Red HoodThin Chen EnterpriseAustrália[1]" 
 
 
 "Game": " Live in Power Bowl - TM Network" 
@@ -2244,11 +2310,11 @@
 "Dev": "Quest Corporation" 
 
 
-"Game": " Matsumoto Akira no Kabushiki HisshougakuImagineerJapão" 
+"Game": " Matsumoto Akira no Kabushiki Hisshougaku" 
+"Dev": "Imagineer"
 
-
-"Game": " Matsumoto Akira no Kabushiki Hisshougaku IIImagineerJapão" 
-
+"Game": " Matsumoto Akira no Kabushiki Hisshougaku II" 
+"Dev": "Imagineer"
 
 "Game": " Max Warrior" 
 "Dev": "Vap"
@@ -2566,14 +2632,14 @@
 "Game": " Oeka Kids - Anpanman to Oekaki Shiyou" 
 "Dev": "Bandai"
 
-"Game": " Olympus no TatakaiImagineerBattle of Olympus" 
-
+"Game": "Battle of Olympus" 
+"Dev": "Imagineer"
 
 "Game": " Onyanko Town",
     "Dev": "Pony Canyon"
 
-"Game": " Operation Wolf "Dev":"Taito" " 
-
+"Game": " Operation Wolf" 
+"Dev": "Taito"
 
 "Game": " Osomatsu-Kun: Back to Zami no Deppa" 
 "Dev": "Bandai"
@@ -3112,7 +3178,8 @@
 "Game": " Splatterhouse: Wanpaku Graffiti" 
 "Dev": "Namco"
 
-"Game": " Spot: The GameBullet Proof Software" 
+"Game": " Spot: The Game" 
+"Dev:" "Bullet Proof Software"
 
 
 "Game": " Spy vs. Spy" 
@@ -3172,8 +3239,8 @@ Back"
 "Game": " Super Arabian" 
 "Dev": "SunSoft"
 
-"Game": " Super Black OnyxBullet Proof SoftwareJapão" 
-
+"Game": " Super Black Onyx" 
+"Dev": "Bullet Proof Software"
 
 "Game": "Kung Fu Heroes" 
 "Dev": "Namco"
@@ -3356,12 +3423,11 @@ Back"
 "Dev": "Taito" 
 
 
-"Game": " TetrisBullet Proof SoftwareJapão" 
+"Game": " Tetris" 
+"Dev": "Bullet Proof Software"
 
-
-"Game":  " Tetris 2 + BomblissBullet Proof SoftwareJapãoTetrisTetris FlashBomblissGame 
-BoyTetris Blast" 
-
+"Game": " Tetris 2 + Bombliss" 
+"Dev": "Bullet Proof Software"
 
 "Game": " Tetris Flash" 
 "Dev": "Nintendo"
