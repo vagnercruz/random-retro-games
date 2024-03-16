@@ -8,12 +8,29 @@
     <title>Escolha de console</title>
 </head>
 <body>
-
-    <h1>Um sorteador de jogos para pessoas que não sabem qual jogo escolher!</h1>
-    <div class="box">
+    <header>
+        <div class="header-left">
+            Nome do Projeto
+        </div>
+        <div class="header-right">
+            <a href="index.html">Home</a>
+            <div class="dropdown">
+                <a class="dropbtn">Emuladores</a>
+                <div class="dropdown-content">
+                    <a href="#">Emulador 1</a>
+                    <a href="#">Emulador 2</a>
+                    <!-- Adicione mais opções conforme necessário -->
+                </div>
+            </div>
+            <a href="sobre.html">Sobre</a>
+            <a href="mais_projetos.html">Mais Projetos</a>
+        </div>
+    </header>
+    <h1>Descubra qual será a sua próxima platina!</h1>
+    <div class="custom-select">
         <select onchange="myChangeHandler.apply(this)">
             <option selected>Escolha um console</option>
-            <option value="conseles/nes/nes.html">Nes</option>
+            <option value="consoles/nes/nes.html">Nes</option>
             <option value="snes">Snes</option>
         </select>
     </div>

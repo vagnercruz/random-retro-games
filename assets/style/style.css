@@ -1,11 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+header {
+  background-color: #282428;
+  color: #ededed;
+  padding: 25px 30px;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.header-left {
+  align-self: flex-end;
+}
+
+.header-right {
+  align-self: flex-end;
+}
+
+.header-right a {
+  color: #ededed;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #ededed;
+  min-width: 160px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  z-index: 1;
+   margin-bottom: 50px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #ededed;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 body {
     margin: 0;
     padding: 0;
-    background-color:  rgba(255, 255, 255, 0.5);
+    background-color:  #282428;
 }
 
 h1 {
+    margin-top: 50px;
     text-align: center;
+    color: #ededed;
+    margin-bottom: 50px;
 }
 
 .box {
@@ -16,39 +78,76 @@ h1 {
 }
   
 .box select {
-    background-color: gray;
-    color: white;
-    padding: 12px;
-    width: 250px;
-    border: none;
-    font-size: 20px;
-    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
-    -webkit-appearance: button;
-    appearance: button;
-    outline: none;
+  position: relative;
+  display: block;
+  background-color:  rgb(240, 200, 180, 0.3);
+  padding: 12px 30px 12px 12px;
+  width: 250px;
+  border: none;
+  font-size: 20px;
+  box-shadow: rgba(240, 200, 180, 0.3);
 }
-  
-  .box::before {
-    content: "\f13a";
-    font-family: FontAwesome;
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 20%;
-    height: 100%;
-    text-align: center;
-    font-size: 28px;
-    line-height: 45px;
-    color: rgba(255, 255, 255, 0.5);
-    background-color: rgba(255, 255, 255, 0.1);
-    pointer-events: none;
+
+.box::before {
+  font-family: "Inter", sans-serif;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20%;
+  height: 100%;
+  text-align: center;
+  font-size: 28px;
+  line-height: 45px;
+  color: rgba(240, 200, 180, 0.3);
+  background-color: rgba(240, 200, 180, 0.3);
+  pointer-events: none;
+  -webkit-appearance: button;
+  appearance: button;
 }
-  
-  .box:hover::before {
-    color: rgba(255, 255, 255, 0.6);
-    background-color: rgba(255, 255, 255, 0.2);
+
+.box option {
+  padding: 30px;
+  background-color: rgba(240, 200, 180, 0.3);
 }
-  
-  .box select option {
-    padding: 30px;
+
+
+
+
+
+
+
+
+label.custom-select {
+  position: relative;
+  display: inline-block;
+}
+
+.custom-select select {
+  display: inline-block;
+  padding: 4px 3px 3px 5px;
+  margin: 0;
+  font: inherit;
+  outline: none;
+  line-height: 1.2;
+  background: rgb(240, 200, 180, 0.3);
+  color: white;
+  border: 0;
+}
+
+.custom-select:after {
+  content: "▼";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  font-size: 60%;
+  line-height: 30px;
+  padding: 0 7px;
+  background: rgb(240, 200, 180, 0.3);
+  color: white;
+  pointer-events: none;
+}
+
+.no-pointer-events .custom-select:after {
+  content: none;
 }
